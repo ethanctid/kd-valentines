@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🧸', '🐻' '🦦' '🇵🇭']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -28,7 +28,7 @@ const CONFIG = {
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
-            text: "I miss you so much my love. How much do you miss me?",                          // For the love meter
+            text: "I miss you so much. How much do you miss me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
